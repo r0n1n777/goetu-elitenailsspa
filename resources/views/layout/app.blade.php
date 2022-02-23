@@ -194,6 +194,96 @@
             <div class="footer-widget pt-80 pb-130">
                 <div class="container">
                     <div class="row">
+                        <div class="col-6">
+                            <div class="testimonial-active">
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="B03uxM7m89Bkyk7xRUCOvA" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=uzk2kP_nbeQuY8vbh4wFqw" rel="nofollow noopener">Brooke D.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=B03uxM7m89Bkyk7xRUCOvA" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="M9KaGtGkbkqLixvUcsOLoA" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=4M_1HjiFUAxrRmcUIgR46g" rel="nofollow noopener">Crystal C.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=M9KaGtGkbkqLixvUcsOLoA" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="ZDz-KSaBDKIsEyo3WG05TA" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=mFZnnqFaZ7-qbE4rbK4EZA" rel="nofollow noopener">Sarah Z.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=ZDz-KSaBDKIsEyo3WG05TA" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="BzCyBUCMBGEeESpP6wHj8Q" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=lXgxy2nFk5TdKBDYYZKjFg" rel="nofollow noopener">Queena T.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=BzCyBUCMBGEeESpP6wHj8Q" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="7Q5cIE7so7wA6rkmVv7euw" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=HRwGVMm3BW7_NtyZiN9V7Q" rel="nofollow noopener">Angel K.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=7Q5cIE7so7wA6rkmVv7euw" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="gxJzckhYXzyT5L11rork9A" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=ivvvQNPadEDAWbZ__-D2mA" rel="nofollow noopener">Gina P.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=gxJzckhYXzyT5L11rork9A" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="FUcs7Chw1DWJI6G7YXKo6A" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=mix3zXxE2CnX48Bf_Bef3g" rel="nofollow noopener">Wei Shing C.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=FUcs7Chw1DWJI6G7YXKo6A" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="P7wKeJSPV8Q7QAfw5d6EcQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=wl2C7fPr1DIFyF0FArx-vA" rel="nofollow noopener">Alyssa M.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=P7wKeJSPV8Q7QAfw5d6EcQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="aXyww99hytZDtZYmEDGEMg" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=YoUg7bODR1KdqAITVvDh7A" rel="nofollow noopener">Theresa P.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=aXyww99hytZDtZYmEDGEMg" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="_0rDcvzEYWu8GsEGFGJAXw" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=fWvkS8vGuqhoBIWh4dfRWw" rel="nofollow noopener">Sheila J.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=_0rDcvzEYWu8GsEGFGJAXw" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <span class="yelp-review" data-review-id="eOm5fz6P8E0OabOoOH-GZQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=zVb_LKxOBi1vozToeIJ5Mg" rel="nofollow noopener">Galina J.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=eOm5fz6P8E0OabOoOH-GZQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-6">
+                            <div class="testimonial-active">
+                                
+                                <div class="single-testimonial text-center">
+                                    <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                        <img src="{{ asset('images/reviews/1.png') }}" class="img-fluid">
+                                    </a>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                        <img src="{{ asset('images/reviews/2.png') }}" class="img-fluid">
+                                    </a>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                        <img src="{{ asset('images/reviews/3.png') }}" class="img-fluid">
+                                    </a>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                        <img src="{{ asset('images/reviews/4.png') }}" class="img-fluid">
+                                    </a>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                        <img src="{{ asset('images/reviews/5.png') }}" class="img-fluid">
+                                    </a>
+                                </div>
+        
+                                <div class="single-testimonial text-center">
+                                    <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                        <img src="{{ asset('images/reviews/6.png') }}" class="img-fluid">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-10">
                             <div class="footer-logo mt-50">
                                 <div class="f-title">
