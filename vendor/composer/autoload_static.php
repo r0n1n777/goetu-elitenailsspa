@@ -178,7 +178,6 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         ),
         'A' => 
         array (
-            'Asm89\\Stack\\' => 12,
             'App\\' => 4,
         ),
     );
@@ -332,7 +331,7 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         ),
         'Psr\\Log\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/log/src',
+            0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
         ),
         'Psr\\Http\\Message\\' => 
         array (
@@ -442,7 +441,8 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         ),
         'Fruitcake\\Cors\\' => 
         array (
-            0 => __DIR__ . '/..' . '/fruitcake/laravel-cors/src',
+            0 => __DIR__ . '/..' . '/fruitcake/php-cors/src',
+            1 => __DIR__ . '/..' . '/fruitcake/laravel-cors/src',
         ),
         'Faker\\' => 
         array (
@@ -516,10 +516,6 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         array (
             0 => __DIR__ . '/..' . '/blade-ui-kit/blade-icons/src',
         ),
-        'Asm89\\Stack\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/asm89/stack-cors/src',
-        ),
         'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
@@ -555,8 +551,6 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',
         'App\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/app/Providers/EventServiceProvider.php',
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
-        'Asm89\\Stack\\Cors' => __DIR__ . '/..' . '/asm89/stack-cors/src/Cors.php',
-        'Asm89\\Stack\\CorsService' => __DIR__ . '/..' . '/asm89/stack-cors/src/CorsService.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'BladeUI\\Icons\\BladeIconsServiceProvider' => __DIR__ . '/..' . '/blade-ui-kit/blade-icons/src/BladeIconsServiceProvider.php',
         'BladeUI\\Icons\\Components\\Icon' => __DIR__ . '/..' . '/blade-ui-kit/blade-icons/src/Components/Icon.php',
@@ -662,6 +656,7 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         'Carbon\\Traits\\Units' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Traits/Units.php',
         'Carbon\\Traits\\Week' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Traits/Week.php',
         'Carbon\\Translator' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Translator.php',
+        'Carbon\\TranslatorImmutable' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/TranslatorImmutable.php',
         'Carbon\\TranslatorStrongTypeInterface' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/TranslatorStrongTypeInterface.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Cron\\AbstractField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/AbstractField.php',
@@ -1499,7 +1494,9 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         'Faker\\Provider\\zh_TW\\Text' => __DIR__ . '/..' . '/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php',
         'Faker\\UniqueGenerator' => __DIR__ . '/..' . '/fakerphp/faker/src/Faker/UniqueGenerator.php',
         'Faker\\ValidGenerator' => __DIR__ . '/..' . '/fakerphp/faker/src/Faker/ValidGenerator.php',
+        'Fruitcake\\Cors\\CorsService' => __DIR__ . '/..' . '/fruitcake/php-cors/src/CorsService.php',
         'Fruitcake\\Cors\\CorsServiceProvider' => __DIR__ . '/..' . '/fruitcake/laravel-cors/src/CorsServiceProvider.php',
+        'Fruitcake\\Cors\\Exceptions\\InvalidOptionException' => __DIR__ . '/..' . '/fruitcake/php-cors/src/Exceptions/InvalidOptionException.php',
         'Fruitcake\\Cors\\HandleCors' => __DIR__ . '/..' . '/fruitcake/laravel-cors/src/HandleCors.php',
         'GrahamCampbell\\ResultType\\Error' => __DIR__ . '/..' . '/graham-campbell/result-type/src/Error.php',
         'GrahamCampbell\\ResultType\\Result' => __DIR__ . '/..' . '/graham-campbell/result-type/src/Result.php',
@@ -3796,11 +3793,13 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         'PharIo\\Version\\AbstractVersionConstraint' => __DIR__ . '/..' . '/phar-io/version/src/constraints/AbstractVersionConstraint.php',
         'PharIo\\Version\\AndVersionConstraintGroup' => __DIR__ . '/..' . '/phar-io/version/src/constraints/AndVersionConstraintGroup.php',
         'PharIo\\Version\\AnyVersionConstraint' => __DIR__ . '/..' . '/phar-io/version/src/constraints/AnyVersionConstraint.php',
+        'PharIo\\Version\\BuildMetaData' => __DIR__ . '/..' . '/phar-io/version/src/BuildMetaData.php',
         'PharIo\\Version\\ExactVersionConstraint' => __DIR__ . '/..' . '/phar-io/version/src/constraints/ExactVersionConstraint.php',
         'PharIo\\Version\\Exception' => __DIR__ . '/..' . '/phar-io/version/src/exceptions/Exception.php',
         'PharIo\\Version\\GreaterThanOrEqualToVersionConstraint' => __DIR__ . '/..' . '/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php',
         'PharIo\\Version\\InvalidPreReleaseSuffixException' => __DIR__ . '/..' . '/phar-io/version/src/exceptions/InvalidPreReleaseSuffixException.php',
         'PharIo\\Version\\InvalidVersionException' => __DIR__ . '/..' . '/phar-io/version/src/exceptions/InvalidVersionException.php',
+        'PharIo\\Version\\NoBuildMetaDataException' => __DIR__ . '/..' . '/phar-io/version/src/exceptions/NoBuildMetaDataException.php',
         'PharIo\\Version\\NoPreReleaseSuffixException' => __DIR__ . '/..' . '/phar-io/version/src/exceptions/NoPreReleaseSuffixException.php',
         'PharIo\\Version\\OrVersionConstraintGroup' => __DIR__ . '/..' . '/phar-io/version/src/constraints/OrVersionConstraintGroup.php',
         'PharIo\\Version\\PreReleaseSuffix' => __DIR__ . '/..' . '/phar-io/version/src/PreReleaseSuffix.php',
@@ -4182,14 +4181,17 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         'Psr\\Http\\Message\\UploadedFileInterface' => __DIR__ . '/..' . '/psr/http-message/src/UploadedFileInterface.php',
         'Psr\\Http\\Message\\UriFactoryInterface' => __DIR__ . '/..' . '/psr/http-factory/src/UriFactoryInterface.php',
         'Psr\\Http\\Message\\UriInterface' => __DIR__ . '/..' . '/psr/http-message/src/UriInterface.php',
-        'Psr\\Log\\AbstractLogger' => __DIR__ . '/..' . '/psr/log/src/AbstractLogger.php',
-        'Psr\\Log\\InvalidArgumentException' => __DIR__ . '/..' . '/psr/log/src/InvalidArgumentException.php',
-        'Psr\\Log\\LogLevel' => __DIR__ . '/..' . '/psr/log/src/LogLevel.php',
-        'Psr\\Log\\LoggerAwareInterface' => __DIR__ . '/..' . '/psr/log/src/LoggerAwareInterface.php',
-        'Psr\\Log\\LoggerAwareTrait' => __DIR__ . '/..' . '/psr/log/src/LoggerAwareTrait.php',
-        'Psr\\Log\\LoggerInterface' => __DIR__ . '/..' . '/psr/log/src/LoggerInterface.php',
-        'Psr\\Log\\LoggerTrait' => __DIR__ . '/..' . '/psr/log/src/LoggerTrait.php',
-        'Psr\\Log\\NullLogger' => __DIR__ . '/..' . '/psr/log/src/NullLogger.php',
+        'Psr\\Log\\AbstractLogger' => __DIR__ . '/..' . '/psr/log/Psr/Log/AbstractLogger.php',
+        'Psr\\Log\\InvalidArgumentException' => __DIR__ . '/..' . '/psr/log/Psr/Log/InvalidArgumentException.php',
+        'Psr\\Log\\LogLevel' => __DIR__ . '/..' . '/psr/log/Psr/Log/LogLevel.php',
+        'Psr\\Log\\LoggerAwareInterface' => __DIR__ . '/..' . '/psr/log/Psr/Log/LoggerAwareInterface.php',
+        'Psr\\Log\\LoggerAwareTrait' => __DIR__ . '/..' . '/psr/log/Psr/Log/LoggerAwareTrait.php',
+        'Psr\\Log\\LoggerInterface' => __DIR__ . '/..' . '/psr/log/Psr/Log/LoggerInterface.php',
+        'Psr\\Log\\LoggerTrait' => __DIR__ . '/..' . '/psr/log/Psr/Log/LoggerTrait.php',
+        'Psr\\Log\\NullLogger' => __DIR__ . '/..' . '/psr/log/Psr/Log/NullLogger.php',
+        'Psr\\Log\\Test\\DummyTest' => __DIR__ . '/..' . '/psr/log/Psr/Log/Test/DummyTest.php',
+        'Psr\\Log\\Test\\LoggerInterfaceTest' => __DIR__ . '/..' . '/psr/log/Psr/Log/Test/LoggerInterfaceTest.php',
+        'Psr\\Log\\Test\\TestLogger' => __DIR__ . '/..' . '/psr/log/Psr/Log/Test/TestLogger.php',
         'Psr\\SimpleCache\\CacheException' => __DIR__ . '/..' . '/psr/simple-cache/src/CacheException.php',
         'Psr\\SimpleCache\\CacheInterface' => __DIR__ . '/..' . '/psr/simple-cache/src/CacheInterface.php',
         'Psr\\SimpleCache\\InvalidArgumentException' => __DIR__ . '/..' . '/psr/simple-cache/src/InvalidArgumentException.php',
@@ -4536,17 +4538,13 @@ class ComposerStaticInit3c7a039102433d87f2f733bda681a12b
         'SebastianBergmann\\CodeCoverage\\Report\\Xml\\Totals' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/Report/Xml/Totals.php',
         'SebastianBergmann\\CodeCoverage\\Report\\Xml\\Unit' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/Report/Xml/Unit.php',
         'SebastianBergmann\\CodeCoverage\\StaticAnalysisCacheNotConfiguredException' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\Cache' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/Cache.php',
         'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\CacheWarmer' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/CacheWarmer.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\CachingCoveredFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/CachingCoveredFileAnalyser.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\CachingUncoveredFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/CachingUncoveredFileAnalyser.php',
+        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\CachingFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/CachingFileAnalyser.php',
         'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\CodeUnitFindingVisitor' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/CodeUnitFindingVisitor.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\CoveredFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/CoveredFileAnalyser.php',
         'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\ExecutableLinesFindingVisitor' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/ExecutableLinesFindingVisitor.php',
+        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\FileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/FileAnalyser.php',
         'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\IgnoredLinesFindingVisitor' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/IgnoredLinesFindingVisitor.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\ParsingCoveredFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/ParsingCoveredFileAnalyser.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\ParsingUncoveredFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/ParsingUncoveredFileAnalyser.php',
-        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\UncoveredFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/UncoveredFileAnalyser.php',
+        'SebastianBergmann\\CodeCoverage\\StaticAnalysis\\ParsingFileAnalyser' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/StaticAnalysis/ParsingFileAnalyser.php',
         'SebastianBergmann\\CodeCoverage\\TestIdMissingException' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php',
         'SebastianBergmann\\CodeCoverage\\UnintentionallyCoveredCodeException' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php',
         'SebastianBergmann\\CodeCoverage\\Version' => __DIR__ . '/..' . '/phpunit/php-code-coverage/src/Version.php',
