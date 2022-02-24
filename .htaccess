@@ -4,6 +4,8 @@
     </IfModule>
 
     RewriteEngine On
+    RewriteCond %{HTTPS} off 
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
     RewriteCond %{HTTP_HOST} ^elitenailsantaclara.com$ [NC,OR]
     RewriteCond %{HTTP_HOST} ^www.elitenailsantaclara.com$
