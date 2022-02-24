@@ -193,7 +193,7 @@
         <footer id="footer" class="footer-area" style="background-color: #f8b0b0;">
             <div class="footer-widget pt-80 pb-130">
                 <div class="container">
-                    <div class="row">
+                    {{-- <div class="row">
                         <div class="col-6">
                             <div class="testimonial-active">
                                 <div class="single-testimonial text-center">
@@ -282,7 +282,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-10">
                             <div class="footer-logo mt-50">
@@ -311,6 +311,18 @@
                                             </div>
                                         </div> <!-- single info -->
                                     </li>
+                                    <li>
+                                        <div class="single-info">
+                                            <div class="info-content">
+                                                <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3" target="new">
+                                                    <img src="{{ asset('images/icons/yelp.png') }}" style="width: 30px !important;" class="mr-3">
+                                                </a>
+                                                <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">
+                                                    <img src="{{ asset('images/icons/google.png') }}" style="width: 30px !important;">
+                                                </a>
+                                            </div>
+                                        </div> <!-- single info -->
+                                    </li>
                                 </ul>
                             </div> <!-- footer logo -->
                         </div>
@@ -320,8 +332,8 @@
                                     <h4 class="title">Business Hours</h4>
                                 </div>
                                 <p class="mt-15">
-                                    <b>Monday - Saturday:</b><br> 10:00AM - 7:30PM<br>
-                                    <b>Sunday: </b><br>10:00AM - 6:00PM
+                                    <b>Monday - Friday:</b><br> 10:00AM - 7:30PM<br><br>
+                                    <b>Saturday - Sunday: </b><br>10:00AM - 6:00PM
                                 </p>
                             </div>
                         </div>
