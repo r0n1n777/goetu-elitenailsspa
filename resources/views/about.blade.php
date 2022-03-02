@@ -12,18 +12,18 @@
                 <div class="about-image mt-50 clearfix">
                     <div class="single-image float-left">
                         <img src="{{ asset('images/about2.jpg') }}" alt="About" data-aos="fade-up"
-                        data-aos-duration="3000">
+                        data-aos-duration="1000">
                     </div> <!-- single image -->
                     <div data-aos="fade-right" class="about-btn">
                         <a class="main-btn" href="#"><span>5</span> Years Experience</a>
                     </div>
                     <div class="single-image image-tow float-right">
                         <img src="{{ asset('images/about1.1.jpg') }}" alt="About" data-aos="fade-up"
-                     data-aos-duration="3000">
+                     data-aos-duration="1000">
                     </div> <!-- single image -->
                     <div class="single-image float-left">
                         <img src="{{ asset('images/about3.jpg') }}" alt="About" data-aos="fade-up"
-                        data-aos-duration="3000">
+                        data-aos-duration="1000">
                     </div> <!-- single image -->
                 </div> <!-- about image -->
             </div>
@@ -72,7 +72,7 @@
         <div class="testimonial-bg bg_cover pt-80 pb-80" style="background-image: url('{{ asset('banner/testimonial-bg.png') }}'); background-size: cover; background-position: center;">
             <div class="row">
                 <div class="col-xl-7 offset-xl-4 col-lg-5 offset-lg-6 col-md-8 offset-md-2 col-sm-10 offset-sm-1">
-                    <div class="testimonial-active" data-aos="fade-up" data-aos-duration="3000">
+                    <div class="testimonial-active" data-aos="fade-up" data-aos-duration="1000">
                         <div class="single-testimonial text-center">
                             <span class="yelp-review" data-review-id="B03uxM7m89Bkyk7xRUCOvA" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=uzk2kP_nbeQuY8vbh4wFqw" rel="nofollow noopener">Brooke D.</a>'s <a href="https://www.yelp.com/biz/elite-nails-and-spa-santa-clara-3?hrid=B03uxM7m89Bkyk7xRUCOvA" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/nDMDI_mMP_IrGgFqFxOKRA" rel="nofollow noopener">Elite Nails & Spa</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
                         </div>
@@ -122,7 +122,7 @@
 
             <div class="row mt-2">
                 <div class="col-xl-7 offset-xl-4 col-lg-5 offset-lg-6 col-md-8 offset-md-2 col-sm-10 offset-sm-1">
-                    <div class="testimonial-active" data-aos="fade-up" data-aos-duration="3000">
+                    <div class="testimonial-active" data-aos="fade-up" data-aos-duration="1000">
                         
                         <div class="single-testimonial text-center">
                             <a href="https://www.google.com/search?q=elite+nails+%26+spa+santa+clara&rlz=1C1CHBF_enPH961PH961&oq=elite+nails&aqs=chrome.1.69i57j35i39l2j46i175i199i512l2j69i60j69i61j69i60.2502j0j7&sourceid=chrome&ie=UTF-8#lrd=0x808fcb5147bae61f:0x441ffaea14a43e00,1" target="new">

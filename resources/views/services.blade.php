@@ -18,7 +18,7 @@
           </div> <!-- row -->
           <div class="row">
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.4s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/manicure.jpg') }}">
                       </div>
@@ -30,7 +30,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.8s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/pedicure.jpg') }}">
                       </div>
@@ -42,7 +42,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.2s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/waxing.jpg') }}">
                       </div>
@@ -54,7 +54,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.6s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 1.6s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.6s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/nailenhancements.jpg') }}">
                       </div>
@@ -66,7 +66,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.6s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 1.6s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.6s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/dippingpowder.jpg') }}">
                       </div>
@@ -78,7 +78,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.6s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 1.6s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.6s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/eyelashesextensions.jpg') }}">
                       </div>
@@ -90,7 +90,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.6s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 1.6s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.6s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/kidsmenu.jpg') }}">
                       </div>
@@ -102,7 +102,7 @@
                   </div> <!-- single team -->
               </div>
               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.6s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 1.6s; animation-name: fadeInUp;">
+                  <div class="single-team text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.6s; animation-name: fadeInUp;">
                       <div class="team-image">
                           <img src="{{ asset('images/additional.jpg') }}">
                       </div>
@@ -133,12 +133,12 @@
                     <div class="about-image mt-50 clearfix">
                         <div class="single-image float-left">
                             <img src="{{ asset('images/pedicure.jpg') }}" alt="About" data-aos="fade-up"
-                            data-aos-duration="3000">
+                            data-aos-duration="1000">
                         </div> <!-- single image -->
                         
                         <div class="single-image image-tow float-right">
                             <img src="{{ asset('images/manicure.jpg') }}" alt="About" data-aos="fade-up"
-                        data-aos-duration="3000">
+                        data-aos-duration="1000">
                         </div> <!-- single image -->
                         
                     </div> <!-- about image -->
@@ -269,12 +269,12 @@
                     <div class="about-image mt-50 clearfix">
                         <div class="single-image float-left">
                             <img src="{{ asset('images/nailenhancements.jpg') }}" alt="About" data-aos="fade-up"
-                            data-aos-duration="3000">
+                            data-aos-duration="1000">
                         </div> <!-- single image -->
                         
                         <div class="single-image image-tow float-right">
                             <img src="{{ asset('images/dippingpowder.jpg') }}" alt="About" data-aos="fade-up"
-                         data-aos-duration="3000">
+                         data-aos-duration="1000">
                         </div> <!-- single image -->
                     </div> <!-- about image -->
                 </div>
@@ -293,14 +293,14 @@
                     <div class="about-image mt-50 clearfix">
                         <div class="single-image float-left">
                             <img src="{{ asset('images/waxing.jpg') }}" alt="About" data-aos="fade-up"
-                            data-aos-duration="3000">
+                            data-aos-duration="1000">
                         </div> <!-- single image -->
                         <div data-aos="fade-right" class="about-btn">
                             
                         </div>
                         <div class="single-image image-tow float-right">
                             <img src="{{ asset('images/eyelashesextensions.jpg')}}" alt="About" data-aos="fade-up"
-                            data-aos-duration="3000">
+                            data-aos-duration="1000">
                         </div> <!-- single image -->
                         
                     </div> <!-- about image -->
@@ -513,12 +513,12 @@
                   <div class="about-image mt-50 clearfix">
                       <div class="single-image float-left">
                           <img src="{{ asset('images/additional.jpg') }}" alt="About" data-aos="fade-up"
-                          data-aos-duration="3000">
+                          data-aos-duration="1000">
                       </div> <!-- single image -->
                       
                       <div class="single-image image-tow float-right">
                           <img src="{{ asset('images/kidsmenu.jpg') }}" alt="About" data-aos="fade-up"
-                       data-aos-duration="3000">
+                       data-aos-duration="1000">
                       </div> <!-- single image -->
                   </div> <!-- about image -->
               </div>
